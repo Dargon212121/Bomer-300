@@ -32,19 +32,19 @@
 
  ls
 
- cd SMSBomber300
+ cd Bomber320servies
 
  ls
 
  pip install -r requirements.txt
 
- python SMSBomber300.py
+ python Bomber320servies.py
 
 [Последующие запуски]
 
  cd SMSBomber300
 
- python SMSBomber300.py
+ python Bomber320servies.py
 
 
  ```  
@@ -57,11 +57,11 @@
 
  ls
 
- cd SMSBomber300
+ cd Bomber320servies.py
 
  ls
 
- python3 SMSBomber300.py
+ python3 Bomber320servies.py
  ```
 
 
